@@ -1,0 +1,385 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-eQ2 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-eQ2 .rectangle-1-hNJ {
+  width: 143.5rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f1d2bd;
+}
+.desktop-1-eQ2 .rectangle-2-byU {
+  width: 65rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 59.5rem;
+  background-color: #e6e1e1;
+}
+.desktop-1-eQ2 .rectangle-20-WKk {
+  width: 66.5rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 73.5rem;
+  top: 59.5rem;
+  background-color: #e6e1e1;
+}
+.desktop-1-eQ2 .rectangle-3-cNn {
+  width: 24.5rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .rectangle-19-ucn {
+  width: 24.5rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 73.5rem;
+  top: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .image-1-D7g {
+  width: 12.9rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 28rem;
+  top: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .image-2-KAi {
+  width: 12.9rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 99.1rem;
+  top: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .category-biography-memoir-performing-arts-humor-1pE {
+  width: 64.9rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 73.15rem;
+  top: 50.6rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #000000;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-eQ2 .line-1-ES6 {
+  width: 22.9rem;
+  height: 0.15rem;
+  position: absolute;
+  left: 84.7rem;
+  top: 55rem;
+  background-color: #000000;
+}
+.desktop-1-eQ2 .line-3-jNr {
+  width: 7.4rem;
+  height: 0.15rem;
+  position: absolute;
+  left: 130.7rem;
+  top: 55rem;
+  background-color: #000000;
+}
+.desktop-1-eQ2 .line-2-EaW {
+  width: 19.4rem;
+  height: 0.15rem;
+  position: absolute;
+  left: 109.7rem;
+  top: 55rem;
+  background-color: #000000;
+}
+.desktop-1-eQ2 .category-literary-fiction-historical-fiction-YLJ {
+  width: 52.6rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 50.6rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #000000;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-eQ2 .line-4-myk {
+  width: 18.5rem;
+  height: 0.15rem;
+  position: absolute;
+  left: 15.7rem;
+  top: 55rem;
+  background-color: #000000;
+}
+.desktop-1-eQ2 .line-6-HhC {
+  width: 19.4rem;
+  height: 0.15rem;
+  position: absolute;
+  left: 36.3rem;
+  top: 55rem;
+  background-color: #000000;
+}
+.desktop-1-eQ2 .rectangle-21-zLi {
+  width: 28rem;
+  height: 7rem;
+  position: absolute;
+  left: 105rem;
+  top: 42rem;
+  background-color: #fff9f9;
+}
+.desktop-1-eQ2 .rectangle-22-Umg {
+  width: 28rem;
+  height: 7rem;
+  position: absolute;
+  left: 35rem;
+  top: 42rem;
+  background-color: #fffbfb;
+}
+.desktop-1-eQ2 .place-on-hold-mVt {
+  width: 16.2rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 40.6rem;
+  top: 42.8rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #000000;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-eQ2 .place-on-hold-SM8 {
+  width: 16.2rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 111.2rem;
+  top: 42.8rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #000000;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-eQ2 .paperback-feb-12-2009-isbn-9780399588198-iZY {
+  width: 38.3rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 101.3rem;
+  top: 22.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #000000;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-eQ2 .paperback-feb-12-2009-isbn-9780399588198-iZY .paperback-feb-12-2009-isbn-9780399588198-iZY-sub-0 {
+}
+.desktop-1-eQ2 .paperback-feb-12-2009-isbn-9780399588198-iZY .paperback-feb-12-2009-isbn-9780399588198-iZY-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Kosugi Maru, 'Source Sans Pro';
+}
+.desktop-1-eQ2 .paperback-feb-02-2021-isbn-9780399588198-HuU {
+  width: 38.3rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 31.6rem;
+  top: 21rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  color: #000000;
+  font-family: Koulen, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-eQ2 .paperback-feb-02-2021-isbn-9780399588198-HuU .paperback-feb-02-2021-isbn-9780399588198-HuU-sub-0 {
+}
+.desktop-1-eQ2 .paperback-feb-02-2021-isbn-9780399588198-HuU .paperback-feb-02-2021-isbn-9780399588198-HuU-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Kosugi Maru, 'Source Sans Pro';
+}
+.desktop-1-eQ2 .star-1-wsY {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 101.5rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-2-T5C {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 106.8rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-3-MAa {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 112.1rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-4-3ZC {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 116.9rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-5-xRG {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 121.9rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-6-Rpe {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 36.6rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-7-w2J {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 41.9rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-8-dvi {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 47.2rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-9-MLv {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 52rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .star-10-Ter {
+  width: 4.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 57rem;
+  top: 31.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-eQ2 .a-soul-nourishing-pleasure-an-enormous-giftusa-today-by-turns-alarming-sad-and-funny-not-just-an-unnerving-account-of-growing-up-in-south-africa-under-apartheid-but-a-love-letter-to-the-authors-remarkable-mothermichiko-kakutani-the-new-york-times-youd-be-hard-pressed-to-find-a-comics-origin-story-better-than-the-one-trevor-noah-serves-up-in-born-a-crime-witty-truth-telling-brilliant-comedyo-the-oprah-magazine-remarkable-smart-extraordinary-essential-reading-on-every-levelthe-seattle-times-noah-thrives-with-the-help-of-his-astonishingly-fearless-mother-their-fierce-bond-makes-this-story-soarpeople-Zht {
+  width: 63.7rem;
+  height: 37.8rem;
+  position: absolute;
+  left: 75.1rem;
+  top: 61.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Kosugi Maru, 'Source Sans Pro';
+}
+.desktop-1-eQ2 .a-mystery-story-a-crime-novel-an-urban-farce-a-sociological-portrait-of-late-1960s-brooklyn-mcbrides-novel-contains-multitudes-he-conducts-his-antic-symphony-with-deep-feeling-never-losing-sight-of-the-suffering-and-inequity-within-the-merriment-the-new-york-times-top-10-books-of-2020-shouldnt-we-just-get-it-over-with-and-declare-mcbride-this-decades-great-american-novelistmcbride-has-a-way-of-inflating-reality-to-comical-sizes-the-better-for-us-to-see-every-tiny-mechanism-that-holds-unjust-systems-in-place-los-angeles-times-a-raucous-poignant-humanity-embracing-novel-o-the-oprah-magazine-top-20-books-of-2020-a-story-of-comedy-and-compassion-time-top-10-books-of-2020-a-boisterous-imaginative-tender-foray-into-late-1960s-brooklyn-entertainment-weekly-top-10-books-of-2020-qhL {
+  width: 63.4rem;
+  height: 36.3rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 62.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Kosugi Maru, 'Source Sans Pro';
+}
+.desktop-1-eQ2 .deacon-king-kong-Syx {
+  width: 21.5rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 41.4rem;
+  top: 9.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+}
+.desktop-1-eQ2 .born-a-crime-K2A {
+  width: 12rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 115.75rem;
+  top: 9.9rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+}

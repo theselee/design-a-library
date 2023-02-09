@@ -1,0 +1,757 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 143.5rem;
+}.desktop-1-Zz2 {
+  box-sizing: border-box;
+  padding: 3.6rem 3.5rem 7rem 3.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f1d2bd;
+}
+.desktop-1-Zz2 .contemporary-black-authors-rTL {
+  margin: 0rem 0rem 5rem 1.5rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 38.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW {
+  box-sizing: border-box;
+  padding-top: 0.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-8cvm-83U {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  padding: 1.7rem 1.1rem 1.7rem 1rem;
+  height: 100%;
+  background-color: #191818;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-8cvm-83U .image-16-DKp {
+  width: 4.9rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY {
+  margin-right: 3.3rem;
+  box-sizing: border-box;
+  padding: 0rem 0.2rem 0rem 3.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .rectangle-3-vQa {
+  margin-right: 2.9rem;
+  width: 20rem;
+  height: 32.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g {
+  margin-bottom: 2.6rem;
+  width: 32.9rem;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ {
+  margin: 0rem 0rem 0.8rem 0.4rem;
+  width: calc(100% - 0.4rem);
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW {
+  margin: 1.4rem 7.6rem 0rem 0rem;
+  width: 21.5rem;
+  height: 15.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .deacon-king-kong-vSW {
+  width: 21.5rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .by-james-mcbride-ZEa {
+  width: 19.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 11.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .by-james-mcbride-ZEa .by-james-mcbride-ZEa-sub-0 {
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .by-james-mcbride-ZEa .by-james-mcbride-ZEa-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .line-1-eYr {
+  width: 16.6rem;
+  height: 0;
+  position: absolute;
+  left: 3.1rem;
+  top: 14rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .line-3-mNa {
+  width: 16.6rem;
+  height: 0;
+  position: absolute;
+  left: 3.1rem;
+  top: 14rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .image-8-FoY {
+  width: 3.4rem;
+  height: 6.4rem;
+  position: relative;
+  background-size: 208.98% 149.054%;
+  background-position: -1.7278rem -1.9563rem;
+  background-image: url('../assets/image-8-HLN.png');
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .from-james-mcbride-author-of-the-national-book-award-winning-the-good-lord-bird-and-the-bestselling-modern-classic-the-color-of-water-one-of-the-most-anticipated-novels-of-the-year-a-wise-and-witty-tale-about-what-happens-to-the-witnesses-of-a-shooting-6ZG {
+  max-width: 31.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-3pep-SWe {
+  box-sizing: border-box;
+  padding: 2rem 1rem 2rem 1.1rem;
+  height: 100%;
+  background-color: #191818;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-3pep-SWe .image-14-YZg {
+  width: 4.9rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt {
+  width: 59.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .rectangle-4-JxA {
+  width: 59.5rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #d9d9d9;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .rectangle-7-Bm4 {
+  width: 20rem;
+  height: 32.7rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .here-for-it-iFC {
+  width: 17.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .by-r-eric-thomas-ywp {
+  width: 19.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 30.35rem;
+  top: 9.2rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .by-r-eric-thomas-ywp .by-r-eric-thomas-ywp-sub-0 {
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .by-r-eric-thomas-ywp .by-r-eric-thomas-ywp-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .line-2-3aJ {
+  width: 16.6rem;
+  height: 0;
+  position: absolute;
+  left: 33.7rem;
+  top: 11.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .in-essays-by-turns-hysterical-and-heartfelt-thomas-reexamines-what-it-means-to-be-an-other-through-the-lens-of-his-own-life-experience-here-for-it-will-resonate-deeply-and-joyfully-with-everyone-who-has-ever-felt-pushed-to-the-margins-struggled-with-self-acceptance-or-wished-to-shine-more-brightly-in-a-dark-world-M5C {
+  width: 31.6rem;
+  height: 23.6rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 13.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .image-9-9vA {
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  left: 55rem;
+  top: 0;
+  background-size: 141.047% 100%;
+  background-position: -0.8926rem 0;
+  background-image: url('../assets/image-9-R5c.png');
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  height: 38.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-si7z-Ziz {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  padding: 2.5rem 1rem;
+  height: 38.5rem;
+  background-color: #191818;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-si7z-Ziz .image-3-fX8 {
+  width: 5rem;
+  height: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp {
+  width: 59.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .rectangle-5-HHc {
+  width: 59.5rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  background-color: #d9d9d9;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .rectangle-16-nkA {
+  width: 20rem;
+  height: 32.7rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .black-girl-call-home-gae {
+  width: 17.4rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 28.75rem;
+  top: 2.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .by-jasmine-mans-9j8 {
+  width: 18.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 28.25rem;
+  top: 14.4rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .by-jasmine-mans-9j8 .by-jasmine-mans-9j8-sub-0 {
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .by-jasmine-mans-9j8 .by-jasmine-mans-9j8-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .line-4-pyg {
+  width: 16.6rem;
+  height: 0;
+  position: absolute;
+  left: 31.3rem;
+  top: 16.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .from-spoken-word-poet-jasmine-mans-comes-an-unforgettable-poetry-collection-about-race-feminism-and-queer-identity-xpz {
+  width: 30rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 27.5rem;
+  top: 19.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .image-11-np2 {
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  left: 54.8rem;
+  top: 0;
+  background-size: 141.047% 100%;
+  background-position: -0.8926rem 0;
+  background-image: url('../assets/image-11-VxW.png');
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz {
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0rem 3.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-afs7-MVk {
+  box-sizing: border-box;
+  padding: 2rem 1rem;
+  height: 100%;
+  background-color: #191818;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-afs7-MVk .image-5-UaN {
+  width: 5rem;
+  height: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN {
+  box-sizing: border-box;
+  padding-left: 3.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .rectangle-18-ssQ {
+  margin: 2rem 4rem 0rem 0rem;
+  width: 20rem;
+  height: 32.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi {
+  margin-bottom: 3.5rem;
+  width: 32.2rem;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE {
+  margin: 0rem 0rem 1.5rem 0.3rem;
+  width: calc(100% - 0.3rem);
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc {
+  margin: 2.5rem 4.6rem 0rem 0rem;
+  width: 22.8rem;
+  height: 15.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .how-beautiful-we-were-UEv {
+  width: 22.8rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .by-imbolo-mbue-jwY {
+  width: 17.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 11.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .by-imbolo-mbue-jwY .by-imbolo-mbue-jwY-sub-0 {
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .by-imbolo-mbue-jwY .by-imbolo-mbue-jwY-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .line-5-bcN {
+  width: 14rem;
+  height: 0;
+  position: absolute;
+  left: 6.2rem;
+  top: 14rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .image-10-6JE {
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  background-size: 141.047% 100%;
+  background-position: -0.8926rem 0;
+  background-image: url('../assets/image-10-3Rc.png');
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .from-the-celebrated-author-of-the-new-york-times-bestseller-behold-the-dreamers-comes-a-sweeping-wrenching-story-about-the-collision-of-a-small-african-village-and-an-american-oil-company-ZSi {
+  max-width: 31.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL {
+  width: 100%;
+  height: 38.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-zs1h-2jc {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem 1rem 1rem;
+  height: 100%;
+  background-color: #191818;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-zs1h-2jc .image-15-7m4 {
+  width: 4.9rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 {
+  margin-right: 3.9rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0.2rem 0.1rem 3.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .rectangle-17-iF4 {
+  margin: 1.2rem 2.55rem 0rem 0rem;
+  width: 20rem;
+  height: 32.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe {
+  margin-bottom: 5.4rem;
+  width: 33.45rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-waq7-Jyx {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-waq7-Jyx .moon-witch-spider-king-SaN {
+  margin: 2.4rem 7.95rem 0rem 0rem;
+  max-width: 21rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-waq7-Jyx .image-12-JsU {
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  background-size: 141.047% 100%;
+  background-position: -0.8926rem 0;
+  background-image: url('../assets/image-12-buC.png');
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ {
+  box-sizing: border-box;
+  padding: 0.5rem 1.1rem 0rem 0.55rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG {
+  margin: 0rem 0rem 1.5rem 0.85rem;
+  width: 19.25rem;
+  height: 3.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .by-marlon-james-aiW {
+  width: 18.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .by-marlon-james-aiW .by-marlon-james-aiW-sub-0 {
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .by-marlon-james-aiW .by-marlon-james-aiW-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .line-6-UhQ {
+  width: 16.6rem;
+  height: 0;
+  position: absolute;
+  left: 2.65rem;
+  top: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .in-black-leopard-red-wolf-sogolon-the-moon-witch-proved-a-worthy-adversary-to-tracker-as-they-clashed-across-a-mythical-african-landscape-in-search-of-a-mysterious-boy-who-disappeared-B62 {
+  max-width: 31.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie {
+  width: 65.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .rectangle-9-5ai {
+  width: 59.5rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 0;
+  background-color: #d9d9d9;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .rectangle-19-Bte {
+  width: 20rem;
+  height: 32.7rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .born-a-crime-V8e {
+  width: 12rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 36.95rem;
+  top: 2.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Kaushan Script, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .by-trevor-noah-9yt {
+  width: 16.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 34.55rem;
+  top: 14.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .by-trevor-noah-9yt .by-trevor-noah-9yt-sub-0 {
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .by-trevor-noah-9yt .by-trevor-noah-9yt-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .line-7-eJN {
+  width: 14.9rem;
+  height: 0.1974rem;
+  position: absolute;
+  left: 37rem;
+  top: 17rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .the-compelling-inspiring-and-comically-sublime-story-of-trevor-noahs-coming-of-age-set-during-the-twilight-of-apartheid-and-the-tumultuous-days-of-freedom-that-followed-9W2 {
+  width: 31.9rem;
+  height: 13.1rem;
+  position: absolute;
+  left: 33rem;
+  top: 19.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4525;
+  color: #000000;
+  font-family: Karma, 'Source Sans Pro';
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .rectangle-15-XWa {
+  width: 7rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #191818;
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .image-13-qGN {
+  width: 3.4rem;
+  height: 6.4rem;
+  position: relative;
+  left: 62.5rem;
+  top: 0.1rem;
+  background-size: 208.98% 149.054%;
+  background-position: -1.7278rem -1.9563rem;
+  background-image: url('../assets/image-13.png');
+}
+.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .image-17-5wQ {
+  width: 4.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
