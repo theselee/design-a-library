@@ -14,7 +14,7 @@ input {
 }
 body {
   width: 143.5rem;
-}.desktop-1-Zz2 {
+}.book-listing {
   box-sizing: border-box;
   padding: 3.6rem 3.5rem 7rem 3.5rem;
   width: 100%;
@@ -25,7 +25,7 @@ body {
   flex-direction: column;
   background-color: #f1d2bd;
 }
-.desktop-1-Zz2 .contemporary-black-authors-rTL {
+.book-listing .contemporary-black-authors {
   margin: 0rem 0rem 5rem 1.5rem;
   text-align: center;
   font-size: 6rem;
@@ -36,7 +36,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY {
+.book-listing .book_container {
   margin-bottom: 3.2rem;
   width: 100%;
   height: 38.6rem;
@@ -44,7 +44,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW {
+.book-listing .book_container .book_container_box {
   box-sizing: border-box;
   padding-top: 0.1rem;
   height: 100%;
@@ -52,7 +52,7 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-8cvm-83U {
+.book-listing .book_container .book_container_box .book_container_box_image {
   margin-right: 0.2rem;
   box-sizing: border-box;
   padding: 1.7rem 1.1rem 1.7rem 1rem;
@@ -60,13 +60,13 @@ body {
   background-color: #191818;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-8cvm-83U .image-16-DKp {
+.book-listing .book_container .book_container_box .book_container_box_image .james_fav_icon {
   width: 4.9rem;
   height: 5rem;
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY {
+.book-listing .book_container .book_container_box .deacon_king {
   margin-right: 3.3rem;
   box-sizing: border-box;
   padding: 0rem 0.2rem 0rem 3.5rem;
@@ -76,7 +76,7 @@ body {
   background-color: #d9d9d9;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .rectangle-3-vQa {
+.book-listing .book_container .book_container_box .deacon_king .deacon-king-kong_icon {
   margin-right: 2.9rem;
   width: 20rem;
   height: 32.7rem;
@@ -84,25 +84,25 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container {
   margin-bottom: 2.6rem;
   width: 32.9rem;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong {
   margin: 0rem 0rem 0.8rem 0.4rem;
   width: calc(100% - 0.4rem);
   display: flex;
   align-items: flex-start;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong .deacon_king_kong_book {
   margin: 1.4rem 7.6rem 0rem 0rem;
   width: 21.5rem;
   height: 15.3rem;
   position: relative;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .deacon-king-kong-vSW {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong .deacon_king_kong_book .deacon-king-kong {
   width: 21.5rem;
   height: 11.7rem;
   position: absolute;
@@ -115,7 +115,7 @@ body {
   color: #000000;
   font-family: Kaushan Script, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .by-james-mcbride-ZEa {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong .deacon_king_kong_book .by-james-mcbride {
   width: 19.3rem;
   height: 3.7rem;
   position: absolute;
@@ -131,16 +131,17 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .by-james-mcbride-ZEa .by-james-mcbride-ZEa-sub-0 {
-}
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .by-james-mcbride-ZEa .by-james-mcbride-ZEa-sub-1 {
+
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong .deacon_king_kong_book .by-james-mcbride .by-james-mcbride-sub-1 {
+  text-decoration-line: underline;
+  text-decoration-color: black;
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.4525;
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .line-1-eYr {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong .deacon_king_kong_book .line-1-eYr {
   width: 16.6rem;
   height: 0;
   position: absolute;
@@ -149,7 +150,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .auto-group-euzb-3tW .line-3-mNa {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong .deacon_king_kong_book .line-3-mNa {
   width: 16.6rem;
   height: 0;
   position: absolute;
@@ -158,16 +159,16 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .auto-group-kzmq-kuQ .image-8-FoY {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .deacon_king_kong .james_bookmark {
   width: 3.4rem;
   height: 6.4rem;
   position: relative;
   background-size: 208.98% 149.054%;
   background-position: -1.7278rem -1.9563rem;
-  background-image: url('../assets/image-8-HLN.png');
+  background-image: url('../assets/james-bookmark.png');
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-pgvk-uTY .auto-group-75hz-e5g .from-james-mcbride-author-of-the-national-book-award-winning-the-good-lord-bird-and-the-bestselling-modern-classic-the-color-of-water-one-of-the-most-anticipated-novels-of-the-year-a-wise-and-witty-tale-about-what-happens-to-the-witnesses-of-a-shooting-6ZG {
+.book-listing .book_container .book_container_box .deacon_king .deacon_king_container .from-james-mcbride {
   max-width: 31.8rem;
   font-size: 1.8rem;
   font-weight: 400;
@@ -175,26 +176,26 @@ body {
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-3pep-SWe {
+.book-listing .book_container .book_container_box .fav_sub_icon_box {
   box-sizing: border-box;
   padding: 2rem 1rem 2rem 1.1rem;
   height: 100%;
   background-color: #191818;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-uu6f-CvW .auto-group-3pep-SWe .image-14-YZg {
+.book-listing .book_container .book_container_box .fav_sub_icon_box .image_mcbride {
   width: 4.9rem;
   height: 5rem;
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt {
+.book-listing .book_container .here_for_it_container {
   width: 59.5rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .rectangle-4-JxA {
+.book-listing .book_container .here_for_it_container .here_for_it {
   width: 59.5rem;
   height: 38.5rem;
   position: absolute;
@@ -202,7 +203,7 @@ body {
   top: 0.1rem;
   background-color: #d9d9d9;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .rectangle-7-Bm4 {
+.book-listing .book_container .here_for_it_container .here_for_it_icon {
   width: 20rem;
   height: 32.7rem;
   position: absolute;
@@ -211,7 +212,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .here-for-it-iFC {
+.book-listing .book_container .here_for_it_container .here-for-it {
   width: 17.5rem;
   height: 5.9rem;
   position: absolute;
@@ -225,7 +226,7 @@ body {
   font-family: Kaushan Script, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .by-r-eric-thomas-ywp {
+.book-listing .book_container .here_for_it_container .by-r-eric-thomas {
   width: 19.7rem;
   height: 3.7rem;
   position: absolute;
@@ -241,16 +242,17 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .by-r-eric-thomas-ywp .by-r-eric-thomas-ywp-sub-0 {
-}
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .by-r-eric-thomas-ywp .by-r-eric-thomas-ywp-sub-1 {
+
+.book-listing .book_container .here_for_it_container .by-r-eric-thomas .by-r-eric-thomas-sub-1 {
+  text-decoration-line: underline;
+  text-decoration-color: black;
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.4525;
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .line-2-3aJ {
+.book-listing .book_container .here_for_it_container .line-2-3aJ {
   width: 16.6rem;
   height: 0;
   position: absolute;
@@ -259,7 +261,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .in-essays-by-turns-hysterical-and-heartfelt-thomas-reexamines-what-it-means-to-be-an-other-through-the-lens-of-his-own-life-experience-here-for-it-will-resonate-deeply-and-joyfully-with-everyone-who-has-ever-felt-pushed-to-the-margins-struggled-with-self-acceptance-or-wished-to-shine-more-brightly-in-a-dark-world-M5C {
+.book-listing .book_container .here_for_it_container .from-r-eric-thomas {
   width: 31.6rem;
   height: 23.6rem;
   position: absolute;
@@ -271,7 +273,7 @@ body {
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-kaf9-iVY .auto-group-e7ap-qHt .image-9-9vA {
+.book-listing .book_container .here_for_it_container .eric_bookmark {
   width: 4.5rem;
   height: 6.5rem;
   position: relative;
@@ -279,9 +281,9 @@ body {
   top: 0;
   background-size: 141.047% 100%;
   background-position: -0.8926rem 0;
-  background-image: url('../assets/image-9-R5c.png');
+  background-image: url('../assets/eric-bookmark.png');
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL {
+.book-listing .black_girl_call_container {
   margin-bottom: 3.5rem;
   width: 100%;
   height: 38.8rem;
@@ -289,7 +291,7 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-si7z-Ziz {
+.book-listing .black_girl_call_container .black_girl_call {
   margin-right: 0.2rem;
   box-sizing: border-box;
   padding: 2.5rem 1rem;
@@ -297,19 +299,19 @@ body {
   background-color: #191818;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-si7z-Ziz .image-3-fX8 {
+.book-listing .black_girl_call_container .black_girl_call .black_girl_call_fav_icon {
   width: 5rem;
   height: 4.2rem;
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp {
+.book-listing .black_girl_call_container .black_girl_call_book_container {
   width: 59.5rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .rectangle-5-HHc {
+.book-listing .black_girl_call_container .black_girl_call_book_container .black_girl_call_book {
   width: 59.5rem;
   height: 38.5rem;
   position: absolute;
@@ -317,7 +319,7 @@ body {
   top: 0.3rem;
   background-color: #d9d9d9;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .rectangle-16-nkA {
+.book-listing .black_girl_call_container .black_girl_call_book_container .black_girl_call_book_icon {
   width: 20rem;
   height: 32.7rem;
   position: absolute;
@@ -326,7 +328,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .black-girl-call-home-gae {
+.book-listing .black_girl_call_container .black_girl_call_book_container .black-girl-call-home {
   width: 17.4rem;
   height: 11.7rem;
   position: absolute;
@@ -339,7 +341,7 @@ body {
   color: #000000;
   font-family: Kaushan Script, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .by-jasmine-mans-9j8 {
+.book-listing .black_girl_call_container .black_girl_call_book_container .by-jasmine-mans {
   width: 18.6rem;
   height: 3.7rem;
   position: absolute;
@@ -355,16 +357,17 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .by-jasmine-mans-9j8 .by-jasmine-mans-9j8-sub-0 {
-}
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .by-jasmine-mans-9j8 .by-jasmine-mans-9j8-sub-1 {
+
+.book-listing .black_girl_call_container .black_girl_call_book_container .by-jasmine-mans .by-jasmine-mans-sub-1 {
+  text-decoration-line: underline;
+  text-decoration-color: black;
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.4525;
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .line-4-pyg {
+.book-listing .black_girl_call_container .black_girl_call_book_container .line-4-pyg {
   width: 16.6rem;
   height: 0;
   position: absolute;
@@ -373,7 +376,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .from-spoken-word-poet-jasmine-mans-comes-an-unforgettable-poetry-collection-about-race-feminism-and-queer-identity-xpz {
+.book-listing .black_girl_call_container .black_girl_call_book_container .from-jasmine-mans {
   width: 30rem;
   height: 10.5rem;
   position: absolute;
@@ -385,7 +388,7 @@ body {
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-yda7-yXp .image-11-np2 {
+.book-listing .black_girl_call_container .black_girl_call_book_container .jasmine_bookmark {
   width: 4.5rem;
   height: 6.5rem;
   position: relative;
@@ -393,9 +396,9 @@ body {
   top: 0;
   background-size: 141.047% 100%;
   background-position: -0.8926rem 0;
-  background-image: url('../assets/image-11-VxW.png');
+  background-image: url('../assets/jasmine-white-bookmark.png');
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz {
+.book-listing .black_girl_call_container .how_beautiful_container {
   box-sizing: border-box;
   padding: 0.3rem 0rem 0rem 3.3rem;
   height: 100%;
@@ -403,20 +406,20 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-afs7-MVk {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful_box {
   box-sizing: border-box;
   padding: 2rem 1rem;
   height: 100%;
   background-color: #191818;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-afs7-MVk .image-5-UaN {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful_box .how_beautiful_fav_icon {
   width: 5rem;
   height: 4.2rem;
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful {
   box-sizing: border-box;
   padding-left: 3.3rem;
   height: 100%;
@@ -425,7 +428,7 @@ body {
   background-color: #d9d9d9;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .rectangle-18-ssQ {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_book {
   margin: 2rem 4rem 0rem 0rem;
   width: 20rem;
   height: 32.7rem;
@@ -433,25 +436,25 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container {
   margin-bottom: 3.5rem;
   width: 32.2rem;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .how_beautiful_we_were_book {
   margin: 0rem 0rem 1.5rem 0.3rem;
   width: calc(100% - 0.3rem);
   display: flex;
   align-items: flex-start;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .how_beautiful_we_were_book .how_beautiful_we_were {
   margin: 2.5rem 4.6rem 0rem 0rem;
   width: 22.8rem;
   height: 15.3rem;
   position: relative;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .how-beautiful-we-were-UEv {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .how_beautiful_we_were_book .how_beautiful_we_were .how-beautiful-we-were {
   width: 22.8rem;
   height: 11.7rem;
   position: absolute;
@@ -464,7 +467,7 @@ body {
   color: #000000;
   font-family: Kaushan Script, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .by-imbolo-mbue-jwY {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .how_beautiful_we_were_book .how_beautiful_we_were .by-imbolo-mbue- {
   width: 17.7rem;
   height: 3.7rem;
   position: absolute;
@@ -480,16 +483,17 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .by-imbolo-mbue-jwY .by-imbolo-mbue-jwY-sub-0 {
-}
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .by-imbolo-mbue-jwY .by-imbolo-mbue-jwY-sub-1 {
+
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .how_beautiful_we_were_book .how_beautiful_we_were .by-imbolo-mbue- .by-imbolo-mbue--sub-1 {
   font-size: 2.5rem;
   font-weight: 600;
+  text-decoration-line: underline;
+  text-decoration-color: black; 
   line-height: 1.4525;
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .auto-group-psgb-LPc .line-5-bcN {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .how_beautiful_we_were_book .how_beautiful_we_were .line-5-bcN {
   width: 14rem;
   height: 0;
   position: absolute;
@@ -498,16 +502,16 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .auto-group-pk6b-SJE .image-10-6JE {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .how_beautiful_we_were_book .imbolo_bookmark {
   width: 4.5rem;
   height: 6.5rem;
   position: relative;
   background-size: 141.047% 100%;
   background-position: -0.8926rem 0;
-  background-image: url('../assets/image-10-3Rc.png');
+  background-image: url('../assets/imbolo-bookmark.png');
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-dcwb-4XL .auto-group-qnbh-rYz .auto-group-rans-mpN .auto-group-43bm-ALi .from-the-celebrated-author-of-the-new-york-times-bestseller-behold-the-dreamers-comes-a-sweeping-wrenching-story-about-the-collision-of-a-small-african-village-and-an-american-oil-company-ZSi {
+.book-listing .black_girl_call_container .how_beautiful_container .how_beautiful .how_beautiful_we_were_book_container .from-imbolo-mbue {
   max-width: 31.7rem;
   font-size: 1.8rem;
   font-weight: 400;
@@ -515,14 +519,14 @@ body {
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL {
+.book-listing .moon_witch_container {
   width: 100%;
   height: 38.5rem;
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-zs1h-2jc {
+.book-listing .moon_witch_container .moon_witch_book {
   margin-right: 0.2rem;
   box-sizing: border-box;
   padding: 1rem 1.1rem 1rem 1rem;
@@ -530,13 +534,13 @@ body {
   background-color: #191818;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-zs1h-2jc .image-15-7m4 {
+.book-listing .moon_witch_container .moon_witch_book .moon_witch_fav_icon {
   width: 4.9rem;
   height: 5rem;
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 {
+.book-listing .moon_witch_container .moon_witch_spider_king_container {
   margin-right: 3.9rem;
   box-sizing: border-box;
   padding: 0.1rem 0.2rem 0.1rem 3.3rem;
@@ -546,7 +550,7 @@ body {
   background-color: #d9d9d9;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .rectangle-17-iF4 {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_book_icon {
   margin: 1.2rem 2.55rem 0rem 0rem;
   width: 20rem;
   height: 32.7rem;
@@ -554,7 +558,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box {
   margin-bottom: 5.4rem;
   width: 33.45rem;
   align-items: center;
@@ -562,13 +566,13 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-waq7-Jyx {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .moon_witch_spider_king {
   width: 100%;
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-waq7-Jyx .moon-witch-spider-king-SaN {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .moon_witch_spider_king .moon-witch-spider-king {
   margin: 2.4rem 7.95rem 0rem 0rem;
   max-width: 21rem;
   text-align: center;
@@ -579,16 +583,16 @@ body {
   font-family: Kaushan Script, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-waq7-Jyx .image-12-JsU {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .moon_witch_spider_king .marlon_bookmark {
   width: 4.5rem;
   height: 6.5rem;
   position: relative;
   background-size: 141.047% 100%;
   background-position: -0.8926rem 0;
-  background-image: url('../assets/image-12-buC.png');
+  background-image: url('../assets/marlon-bookmark.png');
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .by_marlon_james_container {
   box-sizing: border-box;
   padding: 0.5rem 1.1rem 0rem 0.55rem;
   width: 100%;
@@ -596,14 +600,14 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .by_marlon_james_container .by_marlon_james {
   margin: 0rem 0rem 1.5rem 0.85rem;
   width: 19.25rem;
   height: 3.7rem;
   position: relative;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .by-marlon-james-aiW {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .by_marlon_james_container .by_marlon_james .by-marlon-james {
   width: 18.4rem;
   height: 3.7rem;
   position: absolute;
@@ -619,16 +623,17 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .by-marlon-james-aiW .by-marlon-james-aiW-sub-0 {
-}
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .by-marlon-james-aiW .by-marlon-james-aiW-sub-1 {
+
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .by_marlon_james_container .by_marlon_james .by-marlon-james .by-marlon-james-sub-1 {
   font-size: 2.5rem;
   font-weight: 600;
+  text-decoration-line: underline;
+  text-decoration-color: black;
   line-height: 1.4525;
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .auto-group-f74t-VBG .line-6-UhQ {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .by_marlon_james_container .by_marlon_james .line-6-UhQ {
   width: 16.6rem;
   height: 0;
   position: absolute;
@@ -637,7 +642,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-tndm-Dp6 .auto-group-6qsd-bpe .auto-group-uscx-zkJ .in-black-leopard-red-wolf-sogolon-the-moon-witch-proved-a-worthy-adversary-to-tracker-as-they-clashed-across-a-mythical-african-landscape-in-search-of-a-mysterious-boy-who-disappeared-B62 {
+.book-listing .moon_witch_container .moon_witch_spider_king_container .moon_witch_spider_king_box .by_marlon_james_container .from-marlon-james {
   max-width: 31.8rem;
   font-size: 1.8rem;
   font-weight: 400;
@@ -646,13 +651,13 @@ body {
   font-family: Karma, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie {
+.book-listing .moon_witch_container .born_a_container {
   width: 65.9rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .rectangle-9-5ai {
+.book-listing .moon_witch_container .born_a_container .born_a_ {
   width: 59.5rem;
   height: 38.5rem;
   position: absolute;
@@ -660,7 +665,7 @@ body {
   top: 0;
   background-color: #d9d9d9;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .rectangle-19-Bte {
+.book-listing .moon_witch_container .born_a_container .born_a_book_icon {
   width: 20rem;
   height: 32.7rem;
   position: absolute;
@@ -669,7 +674,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .born-a-crime-V8e {
+.book-listing .moon_witch_container .born_a_container .born-a-crime {
   width: 12rem;
   height: 11.7rem;
   position: absolute;
@@ -682,7 +687,7 @@ body {
   color: #000000;
   font-family: Kaushan Script, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .by-trevor-noah-9yt {
+.book-listing .moon_witch_container .born_a_container .by-trevor-noah {
   width: 16.9rem;
   height: 3.7rem;
   position: absolute;
@@ -698,25 +703,18 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .by-trevor-noah-9yt .by-trevor-noah-9yt-sub-0 {
-}
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .by-trevor-noah-9yt .by-trevor-noah-9yt-sub-1 {
+
+.book-listing .moon_witch_container .born_a_container .by-trevor-noah .by-trevor-noah-sub-1 {
   font-size: 2.5rem;
   font-weight: 600;
+  text-decoration-line: underline;
+  text-decoration-color: black; 
   line-height: 1.4525;
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .line-7-eJN {
-  width: 14.9rem;
-  height: 0.1974rem;
-  position: absolute;
-  left: 37rem;
-  top: 17rem;
-  object-fit: contain;
-  vertical-align: top;
-}
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .the-compelling-inspiring-and-comically-sublime-story-of-trevor-noahs-coming-of-age-set-during-the-twilight-of-apartheid-and-the-tumultuous-days-of-freedom-that-followed-9W2 {
+
+.book-listing .moon_witch_container .born_a_container .trevor-review {
   width: 31.9rem;
   height: 13.1rem;
   position: absolute;
@@ -728,7 +726,7 @@ body {
   color: #000000;
   font-family: Karma, 'Source Sans Pro';
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .rectangle-15-XWa {
+.book-listing .moon_witch_container .born_a_container .born_a_crime_container {
   width: 7rem;
   height: 38.5rem;
   position: absolute;
@@ -736,7 +734,7 @@ body {
   top: 0;
   background-color: #191818;
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .image-13-qGN {
+.book-listing .moon_witch_container .born_a_container .trevor-bookmark {
   width: 3.4rem;
   height: 6.4rem;
   position: relative;
@@ -744,9 +742,9 @@ body {
   top: 0.1rem;
   background-size: 208.98% 149.054%;
   background-position: -1.7278rem -1.9563rem;
-  background-image: url('../assets/image-13.png');
+  background-image: url('../assets/trevor-bookmark.png');
 }
-.desktop-1-Zz2 .auto-group-woe7-hhL .auto-group-ftcw-Aie .image-17-5wQ {
+.book-listing .moon_witch_container .born_a_container .born_a_crime_fav_icon {
   width: 4.9rem;
   height: 5rem;
   position: absolute;

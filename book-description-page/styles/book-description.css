@@ -14,14 +14,14 @@ input {
 }
 body {
   width: 144rem;
-}.desktop-1-eQ2 {
+}.book-descrip-container {
   width: 100%;
   height: 102.4rem;
   position: relative;
   overflow: hidden;
   background-color: #ffffff;
 }
-.desktop-1-eQ2 .rectangle-1-hNJ {
+.book-descrip-container .book-descrip-box {
   width: 143.5rem;
   height: 102.4rem;
   position: absolute;
@@ -29,23 +29,24 @@ body {
   top: 0;
   background-color: #f1d2bd;
 }
-.desktop-1-eQ2 .rectangle-2-byU {
+.book-descrip-container .deacon_king_box {
   width: 65rem;
-  height: 38.5rem;
+  height: 50.5rem;
+  bottom: 27px;
   position: absolute;
   left: 3.5rem;
   top: 59.5rem;
   background-color: #e6e1e1;
 }
-.desktop-1-eQ2 .rectangle-20-WKk {
+.book-descrip-container .born_a_crime_box {
   width: 66.5rem;
-  height: 38.5rem;
+  height: 50.5rem;
   position: absolute;
   left: 73.5rem;
   top: 59.5rem;
   background-color: #e6e1e1;
 }
-.desktop-1-eQ2 .rectangle-3-cNn {
+.book-descrip-container .deacon-king-kong-book {
   width: 24.5rem;
   height: 38.5rem;
   position: absolute;
@@ -54,7 +55,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-eQ2 .rectangle-19-ucn {
+.book-descrip-container .born-a-crime-book {
   width: 24.5rem;
   height: 38.5rem;
   position: absolute;
@@ -63,7 +64,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-eQ2 .image-1-D7g {
+.book-descrip-container .deacon-bestselling {
   width: 12.9rem;
   height: 10.5rem;
   position: absolute;
@@ -72,7 +73,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-eQ2 .image-2-KAi {
+.book-descrip-container .born-a-bestselling {
   width: 12.9rem;
   height: 10.5rem;
   position: absolute;
@@ -81,7 +82,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.desktop-1-eQ2 .category-biography-memoir-performing-arts-humor-1pE {
+.book-descrip-container .category-biography-memoir-performing-arts-humor {
   width: 64.9rem;
   height: 5.5rem;
   position: absolute;
@@ -95,7 +96,7 @@ body {
   font-family: Koulen, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-eQ2 .line-1-ES6 {
+.book-descrip-container .biography_underline {
   width: 22.9rem;
   height: 0.15rem;
   position: absolute;
@@ -103,7 +104,7 @@ body {
   top: 55rem;
   background-color: #000000;
 }
-.desktop-1-eQ2 .line-3-jNr {
+.book-descrip-container .humor_underline {
   width: 7.4rem;
   height: 0.15rem;
   position: absolute;
@@ -111,7 +112,7 @@ body {
   top: 55rem;
   background-color: #000000;
 }
-.desktop-1-eQ2 .line-2-EaW {
+.book-descrip-container .performing_underline {
   width: 19.4rem;
   height: 0.15rem;
   position: absolute;
@@ -119,7 +120,7 @@ body {
   top: 55rem;
   background-color: #000000;
 }
-.desktop-1-eQ2 .category-literary-fiction-historical-fiction-YLJ {
+.book-descrip-container .category-literary-fiction-historical-fiction {
   width: 52.6rem;
   height: 5.5rem;
   position: absolute;
@@ -133,7 +134,7 @@ body {
   font-family: Koulen, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-eQ2 .line-4-myk {
+.book-descrip-container .literary_underline {
   width: 18.5rem;
   height: 0.15rem;
   position: absolute;
@@ -141,7 +142,7 @@ body {
   top: 55rem;
   background-color: #000000;
 }
-.desktop-1-eQ2 .line-6-HhC {
+.book-descrip-container .historical_underline {
   width: 19.4rem;
   height: 0.15rem;
   position: absolute;
@@ -149,7 +150,7 @@ body {
   top: 55rem;
   background-color: #000000;
 }
-.desktop-1-eQ2 .rectangle-21-zLi {
+.book-descrip-container .trevor_hold_box {
   width: 28rem;
   height: 7rem;
   position: absolute;
@@ -157,7 +158,7 @@ body {
   top: 42rem;
   background-color: #fff9f9;
 }
-.desktop-1-eQ2 .rectangle-22-Umg {
+.book-descrip-container .james_hold_box {
   width: 28rem;
   height: 7rem;
   position: absolute;
@@ -165,7 +166,7 @@ body {
   top: 42rem;
   background-color: #fffbfb;
 }
-.desktop-1-eQ2 .place-on-hold-mVt {
+.book-descrip-container .james-place-on-hold {
   width: 16.2rem;
   height: 5.5rem;
   position: absolute;
@@ -179,7 +180,7 @@ body {
   font-family: Koulen, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-eQ2 .place-on-hold-SM8 {
+.book-descrip-container .trevor-place-on-hold {
   width: 16.2rem;
   height: 5.5rem;
   position: absolute;
@@ -193,7 +194,7 @@ body {
   font-family: Koulen, 'Source Sans Pro';
   white-space: nowrap;
 }
-.desktop-1-eQ2 .paperback-feb-12-2009-isbn-9780399588198-iZY {
+.book-descrip-container .trevor-paperback-date-isbn {
   width: 38.3rem;
   height: 5.5rem;
   position: absolute;
@@ -209,16 +210,15 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-eQ2 .paperback-feb-12-2009-isbn-9780399588198-iZY .paperback-feb-12-2009-isbn-9780399588198-iZY-sub-0 {
-}
-.desktop-1-eQ2 .paperback-feb-12-2009-isbn-9780399588198-iZY .paperback-feb-12-2009-isbn-9780399588198-iZY-sub-1 {
+
+.book-descrip-container .trevor-paperback-date-isbn .trevor-paperback-date-isbn-sub-1 {
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.2575;
   color: #000000;
   font-family: Kosugi Maru, 'Source Sans Pro';
 }
-.desktop-1-eQ2 .paperback-feb-02-2021-isbn-9780399588198-HuU {
+.book-descrip-container .paperback-feb-02-2021-isbn-9780399588198 {
   width: 38.3rem;
   height: 5.5rem;
   position: absolute;
@@ -234,16 +234,15 @@ body {
   display: flex;
   align-items: baseline;
 }
-.desktop-1-eQ2 .paperback-feb-02-2021-isbn-9780399588198-HuU .paperback-feb-02-2021-isbn-9780399588198-HuU-sub-0 {
-}
-.desktop-1-eQ2 .paperback-feb-02-2021-isbn-9780399588198-HuU .paperback-feb-02-2021-isbn-9780399588198-HuU-sub-1 {
+
+.book-descrip-container .paperback-feb-02-2021-isbn-9780399588198 .paperback-feb-02-2021-isbn-9780399588198-sub-1 {
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.2575;
   color: #000000;
   font-family: Kosugi Maru, 'Source Sans Pro';
 }
-.desktop-1-eQ2 .star-1-wsY {
+.book-descrip-container .gold-star-1 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -252,7 +251,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-2-T5C {
+.book-descrip-container .gold-star-2 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -261,7 +260,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-3-MAa {
+.book-descrip-container .gold-star-3 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -270,7 +269,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-4-3ZC {
+.book-descrip-container .gold-star-4 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -279,7 +278,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-5-xRG {
+.book-descrip-container .gold-star-5 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -288,7 +287,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-6-Rpe {
+.book-descrip-container .gold-star-6 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -297,7 +296,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-7-w2J {
+.book-descrip-container .gold-star-7 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -306,7 +305,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-8-dvi {
+.book-descrip-container .gold-star-8 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -315,7 +314,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-9-MLv {
+.book-descrip-container .gold-star-9 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -324,7 +323,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .star-10-Ter {
+.book-descrip-container .white-star-10 {
   width: 4.1rem;
   height: 4.7rem;
   position: absolute;
@@ -333,7 +332,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.desktop-1-eQ2 .a-soul-nourishing-pleasure-an-enormous-giftusa-today-by-turns-alarming-sad-and-funny-not-just-an-unnerving-account-of-growing-up-in-south-africa-under-apartheid-but-a-love-letter-to-the-authors-remarkable-mothermichiko-kakutani-the-new-york-times-youd-be-hard-pressed-to-find-a-comics-origin-story-better-than-the-one-trevor-noah-serves-up-in-born-a-crime-witty-truth-telling-brilliant-comedyo-the-oprah-magazine-remarkable-smart-extraordinary-essential-reading-on-every-levelthe-seattle-times-noah-thrives-with-the-help-of-his-astonishingly-fearless-mother-their-fierce-bond-makes-this-story-soarpeople-Zht {
+.book-descrip-container .trevor-review {
   width: 63.7rem;
   height: 37.8rem;
   position: absolute;
@@ -345,7 +344,7 @@ body {
   color: #000000;
   font-family: Kosugi Maru, 'Source Sans Pro';
 }
-.desktop-1-eQ2 .a-mystery-story-a-crime-novel-an-urban-farce-a-sociological-portrait-of-late-1960s-brooklyn-mcbrides-novel-contains-multitudes-he-conducts-his-antic-symphony-with-deep-feeling-never-losing-sight-of-the-suffering-and-inequity-within-the-merriment-the-new-york-times-top-10-books-of-2020-shouldnt-we-just-get-it-over-with-and-declare-mcbride-this-decades-great-american-novelistmcbride-has-a-way-of-inflating-reality-to-comical-sizes-the-better-for-us-to-see-every-tiny-mechanism-that-holds-unjust-systems-in-place-los-angeles-times-a-raucous-poignant-humanity-embracing-novel-o-the-oprah-magazine-top-20-books-of-2020-a-story-of-comedy-and-compassion-time-top-10-books-of-2020-a-boisterous-imaginative-tender-foray-into-late-1960s-brooklyn-entertainment-weekly-top-10-books-of-2020-qhL {
+.book-descrip-container .james-review {
   width: 63.4rem;
   height: 36.3rem;
   position: absolute;
@@ -357,7 +356,7 @@ body {
   color: #000000;
   font-family: Kosugi Maru, 'Source Sans Pro';
 }
-.desktop-1-eQ2 .deacon-king-kong-Syx {
+.book-descrip-container .deacon-king-kong {
   width: 21.5rem;
   height: 11.7rem;
   position: absolute;
@@ -370,7 +369,7 @@ body {
   color: #000000;
   font-family: Kaushan Script, 'Source Sans Pro';
 }
-.desktop-1-eQ2 .born-a-crime-K2A {
+.book-descrip-container .born-a-crime {
   width: 12rem;
   height: 11.7rem;
   position: absolute;

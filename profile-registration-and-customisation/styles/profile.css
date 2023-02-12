@@ -22,14 +22,14 @@ body {
   position: relative;
   display: grid;
   
-  grid-auto-rows: 76.1125rem;
+  /* grid-auto-rows: 30.1125rem; */
   background-color: #f1d2bd;
 }
-.profile_control .auto-group-ys4b-BeJ {
+.profile_control .my-profile-content {
   display: flex;
   align-items: center;
 }
-.profile_control .auto-group-ys4b-BeJ .my-profile-v66 {
+.profile_control .my-profile-content .my-profile {
   margin-right: 2.8rem;
   text-align: center;
   font-size: 8rem;
@@ -40,7 +40,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.profile_control .auto-group-ys4b-BeJ .image-1-Xra {
+.profile_control .my-profile-content .image-1 {
   margin-top: 0.7rem;
   width: 4.5rem;
   height: 4.1rem;
@@ -48,7 +48,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.profile_control .fill-out-your-registration-here-57Q {
+.profile_control .fill-out-your-registration-here {
   width: 339px;
   height: 34px;
   left: 35px;
@@ -70,6 +70,7 @@ body {
   height: 91rem;
   display: flex;
   align-items: flex-start;
+  padding: 50px 0;
 }
 .profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ {
   margin-right: 14rem;
@@ -118,7 +119,7 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .auto-group-v8md-bG6 .title--AM8 {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .auto-group-v8md-bG6 .title {
   width: 7.3rem;
   height: 3.5rem;
   position: absolute;
@@ -132,7 +133,7 @@ body {
   font-family: Open Sans, 'Source Sans Pro';
   white-space: nowrap;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .auto-group-v8md-bG6 .image-4-Bn2 {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .auto-group-v8md-bG6 .title-icon {
   width: 1.8rem;
   height: 2.6rem;
   position: absolute;
@@ -141,14 +142,14 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .auto-group-7szh-sPx {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .dropdown {
   margin-bottom: 0.1rem;
   width: 10.5rem;
   height: 4.2rem;
   position: relative;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .auto-group-7szh-sPx .rectangle-11-B9k {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .dropdown .rectangle-11-B9k {
   width: 10.5rem;
   height: 3.5rem;
   position: absolute;
@@ -156,7 +157,7 @@ body {
   top: 0;
   background-color: #d9d9d9;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .auto-group-7szh-sPx .image-3-6Gi {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-lsdv-KpN .dropdown .image-3 {
   width: 3.7rem;
   height: 4.2rem;
   position: absolute;
@@ -172,7 +173,7 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jayu-bDU .image-5-VJr {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jayu-bDU .name_icon {
   margin-right: 0.3rem;
   width: 1.8rem;
   height: 2.6rem;
@@ -180,7 +181,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jayu-bDU .name--QAv {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jayu-bDU .name {
   margin: 1.3rem 2.2rem 0rem 0rem;
   text-align: center;
   font-size: 2.5rem;
@@ -214,7 +215,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jm2o-5RU .image-6-yWr {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jm2o-5RU .username_icon {
   margin-bottom: 2.5rem;
   width: 1.8rem;
   height: 2.6rem;
@@ -222,7 +223,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jm2o-5RU .username--HnS {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-jm2o-5RU .username {
   margin: 1.6rem 2.9rem 0rem 0rem;
   text-align: center;
   font-size: 2.5rem;
@@ -254,7 +255,7 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8dfv-sEr .auto-group-6vpo-Ybt .dob--44S {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8dfv-sEr .auto-group-6vpo-Ybt .dob {
   width: 7.7rem;
   height: 3.5rem;
   position: absolute;
@@ -268,7 +269,7 @@ body {
   font-family: Open Sans, 'Source Sans Pro';
   white-space: nowrap;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8dfv-sEr .auto-group-6vpo-Ybt .image-7-uKx {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8dfv-sEr .auto-group-6vpo-Ybt .dob_icon {
   width: 1.8rem;
   height: 2.6rem;
   position: absolute;
@@ -299,14 +300,14 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-gns1-q78 .image-8-YGS {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-gns1-q78 .email-address_icon {
   width: 1.8rem;
   height: 2.6rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-gns1-q78 .email-address--rnv {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-gns1-q78 .email-address {
   margin: 0.8rem 4.1rem 0rem 0rem;
   text-align: center;
   font-size: 2.5rem;
@@ -337,7 +338,7 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8hdh-3cW .auto-group-ccr3-YZG .password--dKp {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8hdh-3cW .auto-group-ccr3-YZG .password {
   width: 14.7rem;
   height: 3.5rem;
   position: absolute;
@@ -351,7 +352,7 @@ body {
   font-family: Open Sans, 'Source Sans Pro';
   white-space: nowrap;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8hdh-3cW .auto-group-ccr3-YZG .image-9-V78 {
+.profile_control .auto-group-xkgo-NMQ .auto-group-eta3-6YJ .auto-group-kagp-SVg .auto-group-8hdh-3cW .auto-group-ccr3-YZG .password_icon {
   width: 1.8rem;
   height: 2.6rem;
   position: absolute;
@@ -399,7 +400,7 @@ body {
   background-color: #f3f3f3;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-gxko-9Dc .auto-group-zuz3-G3L {
+.profile_control .auto-group-xkgo-NMQ .auto-group-gxko-9Dc .your-picture {
   width: 100%;
   height: 7rem;
   text-align: center;
@@ -424,7 +425,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-gxko-9Dc .auto-group-pw6w-JVp .image-2-CLJ {
+.profile_control .auto-group-xkgo-NMQ .auto-group-gxko-9Dc .auto-group-pw6w-JVp .user_icon {
   margin: 0rem 1.1rem 2.8rem 0rem;
   width: 11.4rem;
   height: 14rem;
@@ -432,7 +433,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.profile_control .auto-group-xkgo-NMQ .auto-group-gxko-9Dc .auto-group-pw6w-JVp .auto-group-bdm9-HsY {
+.profile_control .auto-group-xkgo-NMQ .auto-group-gxko-9Dc .auto-group-pw6w-JVp .upload {
   width: 100%;
   height: 6rem;
   text-align: center;
